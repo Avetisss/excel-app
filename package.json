@@ -1,0 +1,19 @@
+{
+  "name": "excel-course",
+  "version": "1.0.0",
+  "description": "pure js excel app",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Avetis Davydov <avetisdav94@gmail.com>",
+  "license": "ISC",
+  "private": "true",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
